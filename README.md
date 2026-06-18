@@ -57,5 +57,5 @@ A persistência do ecossistema foi normalizada em 8 tabelas relacionais estrutur
 
 ## Autora
 
-* **Stella Stoffelshaus Augusto**
+* **Stella Augusto**
 * **Curso:** Análise e Desenvolvimento de Sistemas - FIAP
